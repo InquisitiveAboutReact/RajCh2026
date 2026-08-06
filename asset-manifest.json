@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myprofile/static/css/main.55720783.css",
-    "main.js": "/myprofile/static/js/main.98fece39.js",
-    "static/media/raja-profile-2026.jpg": "/myprofile/static/media/raja-profile-2026.e6aa1bcb81d70aaa8a54.jpg",
-    "static/media/oracle-hr-2025.jpg": "/myprofile/static/media/oracle-hr-2025.b03bf336d66612a67993.jpg",
-    "static/media/oracle-ai-2026.jpg": "/myprofile/static/media/oracle-ai-2026.0a333d05c60a8bb9dd76.jpg",
-    "static/media/oracle-payroll-2026.jpg": "/myprofile/static/media/oracle-payroll-2026.a69c54749d640a4ed40c.jpg",
-    "index.html": "/myprofile/index.html",
-    "main.55720783.css.map": "/myprofile/static/css/main.55720783.css.map",
-    "main.98fece39.js.map": "/myprofile/static/js/main.98fece39.js.map"
+    "main.css": "/RajCh2026/static/css/main.55720783.css",
+    "main.js": "/RajCh2026/static/js/main.66af5ea4.js",
+    "static/media/raja-profile-2026.jpg": "/RajCh2026/static/media/raja-profile-2026.e6aa1bcb81d70aaa8a54.jpg",
+    "static/media/oracle-hr-2025.jpg": "/RajCh2026/static/media/oracle-hr-2025.b03bf336d66612a67993.jpg",
+    "static/media/oracle-ai-2026.jpg": "/RajCh2026/static/media/oracle-ai-2026.0a333d05c60a8bb9dd76.jpg",
+    "static/media/oracle-payroll-2026.jpg": "/RajCh2026/static/media/oracle-payroll-2026.a69c54749d640a4ed40c.jpg",
+    "index.html": "/RajCh2026/index.html",
+    "main.55720783.css.map": "/RajCh2026/static/css/main.55720783.css.map",
+    "main.66af5ea4.js.map": "/RajCh2026/static/js/main.66af5ea4.js.map"
   },
   "entrypoints": [
     "static/css/main.55720783.css",
-    "static/js/main.98fece39.js"
+    "static/js/main.66af5ea4.js"
   ]
 }
